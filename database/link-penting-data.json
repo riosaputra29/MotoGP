@@ -1,0 +1,243 @@
+{
+  "app": "link-penting",
+  "version": 3,
+  "savedAt": 1795663783852,
+  "items": [
+    {
+      "id": "imwvi95nx6hfm",
+      "url": "https://claude.ai/",
+      "title": "AI (Claude)",
+      "cat": "AI",
+      "note": "Link untuk buka Ai claude",
+      "pin": true,
+      "added": 1795408716675,
+      "opens": 4,
+      "last": 1795663782759,
+      "hits": [
+        1795409358330,
+        1795487315327,
+        1795663721608,
+        1795663782759
+      ],
+      "tags": [
+        "AI",
+        "generated",
+        "image",
+        "music",
+        "coding"
+      ],
+      "rl": 0,
+      "due": "",
+      "lock": false
+    },
+    {
+      "id": "imwvi95nxr1xj",
+      "url": "https://chatgpt.com/",
+      "title": "AI (Chat GPT)",
+      "cat": "AI",
+      "note": "Link untuk AI (Chat GPT)",
+      "pin": true,
+      "added": 1795408813569,
+      "opens": 6,
+      "last": 1795659056664,
+      "hits": [
+        1795409348705,
+        1795409371105,
+        1795409373617,
+        1795426459145,
+        1795487318183,
+        1795659056664
+      ],
+      "tags": [
+        "AI",
+        "generated",
+        "image",
+        "music",
+        "coding"
+      ],
+      "rl": 0,
+      "due": "",
+      "lock": false
+    },
+    {
+      "id": "imwvi95nxjuu8",
+      "url": "https://google.com/",
+      "title": "Google",
+      "cat": "Search Engine",
+      "note": "Search Engine Populer",
+      "pin": false,
+      "added": 1795408863146,
+      "opens": 2,
+      "last": 1795487307776,
+      "hits": [
+        1795409365065,
+        1795487307776
+      ],
+      "tags": [
+        "laporan",
+        "penting"
+      ],
+      "rl": 1,
+      "due": "",
+      "lock": false
+    },
+    {
+      "id": "imwvi95nxn3k3",
+      "url": "https://facebook.com",
+      "title": "",
+      "cat": "Social",
+      "note": "Facebook",
+      "pin": false,
+      "added": 1795426490600,
+      "opens": 1,
+      "last": 1795426568464,
+      "hits": [
+        1795426568464
+      ],
+      "tags": [
+        "social",
+        "media"
+      ],
+      "rl": 1,
+      "due": "",
+      "lock": false
+    },
+    {
+      "id": "imwvi95nxv0qx",
+      "url": "https://instagram.com",
+      "title": "",
+      "cat": "Social",
+      "note": "IG",
+      "pin": true,
+      "added": 1795426597631,
+      "opens": 2,
+      "last": 1795427124694,
+      "hits": [
+        1795426601103,
+        1795427124694
+      ],
+      "tags": [
+        "social",
+        "feed",
+        "mention",
+        "information"
+      ],
+      "rl": 1,
+      "due": "",
+      "lock": false
+    },
+    {
+      "id": "imwvi95nx4c8l",
+      "url": "https://poe.com",
+      "title": "",
+      "cat": "AI",
+      "note": "AI Gratis",
+      "pin": true,
+      "added": 1795426695031,
+      "opens": 2,
+      "last": 1795659176847,
+      "hits": [
+        1795427184501,
+        1795659176847
+      ],
+      "tags": [
+        "AI",
+        "generated",
+        "image",
+        "music",
+        "coding"
+      ],
+      "rl": 1,
+      "due": "",
+      "lock": false
+    },
+    {
+      "id": "imwvi95nx9i1y",
+      "url": "https://kaskus.com",
+      "title": "",
+      "cat": "Social",
+      "note": "Ngakus",
+      "pin": true,
+      "added": 1795426727358,
+      "opens": 2,
+      "last": 1795577711900,
+      "hits": [
+        1795487311583,
+        1795577711900
+      ],
+      "tags": [
+        "berita",
+        "diskusi",
+        "forum",
+        "sharing",
+        "komentar"
+      ],
+      "rl": 0,
+      "due": "",
+      "lock": false
+    },
+    {
+      "id": "imwvi95nx7bwh",
+      "url": "https://bing.com",
+      "title": "",
+      "cat": "Search Engine",
+      "note": "Search Engine",
+      "pin": true,
+      "added": 1795427226188,
+      "opens": 3,
+      "last": 1795656551485,
+      "hits": [
+        1795427228996,
+        1795582036589,
+        1795656551485
+      ],
+      "tags": [
+        "browser",
+        "berita",
+        "artikel",
+        "blog"
+      ],
+      "rl": 1,
+      "due": "",
+      "lock": false
+    },
+    {
+      "url": "https://www.motogp.com/",
+      "title": "Moto GP",
+      "cat": "Sport News",
+      "note": "Berita Olahraga",
+      "tags": [
+        "MotoGP",
+        "Sport",
+        "Veda",
+        "VEP9",
+        "Mandalika",
+        "Moto3",
+        "Moto2"
+      ],
+      "due": "",
+      "rl": 1,
+      "lock": false,
+      "id": "imwwv21twlfha",
+      "added": 1795655726276,
+      "pin": false
+    }
+  ],
+  "note": "",
+  "settings": {
+    "linkpenting.city": "{\"name\":\"Pelalawan\",\"lat\":0.44084,\"lon\":102.0905}",
+    "linkpenting.map": "pemda pangkalan kerinci",
+    "linkpenting.radar": "ws",
+    "linkpenting.routines": "[{\"id\":\"rmwvkrmvu\",\"name\":\"Ceki Ceki\",\"ids\":[\"imwvi95nxjuu8\"]}]",
+    "linkpenting.prefs": "{\"sortBy\":\"new\",\"view\":\"grid\",\"per\":48}",
+    "linkpenting.newssrc": "antara",
+    "linkpenting.accent": "sapphire",
+    "linkpenting.gpc": "2",
+    "linkpenting.theme": "dark",
+    "linkpenting.bksn": "1795655148532",
+    "linkpenting.gpv": "0",
+    "linkpenting.ytlast": "{\"v\":\"DA1NqNEXfUc\",\"l\":\"\",\"s\":0}",
+    "linkpenting.yt": "[{\"v\":\"Vh06vjT6MLo\",\"l\":\"\",\"s\":0,\"title\":\"Pantesan Veda Ega Crash di Moto3 Portugal 2026 !! Ternyata Karena...\",\"added\":1795658176963},{\"v\":\"dIS9AZjdCto\",\"l\":\"\",\"s\":0,\"title\":\"MARC MARQUEZ! THE GREATEST COMEBACK IN MOTOGP™ 2026! | MotoGP Race | Highlights | MotoGP™ Portugal\",\"added\":1795657109489}]",
+    "linkpenting.ytq": "[\"moto 3 sepang\",\"moto gp\",\"pak inra ganteng\",\"pantai terindah disumbar\",\"moto gp 2026  veda ega\",\"mandalika\"]"
+  }
+}
